@@ -1,6 +1,5 @@
 # Flutter Google Maps Tutorial
 
-[YouTube Video](https://youtu.be/Zz5hMvgiWmY)
 
 ## Setup
 
